@@ -1,0 +1,9 @@
+.aider*
+queries_test.txt
+geocoding_gaps.json
+config.json
+venv/
+res/
+nppBackup/
+bench_out/
+__pycache__/
